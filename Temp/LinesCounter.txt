@@ -1,2 +1,7 @@
 First line
+<<<<<<< HEAD
 line in master
+=======
+second line
+thirt line
+>>>>>>> ExtendCounter

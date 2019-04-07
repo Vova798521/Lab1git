@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 First line
 <<<<<<< HEAD
 line in master
 =======
 second line
 thirt line
+>>>>>>> ExtendCounter
+=======
+wefwefFirst line
+second line
+thirt line
+jgfftutfgddfdffdrerrgergergrthrsjh jerjhojhojt j wthergrthotbtbjlgbjn
 >>>>>>> ExtendCounter
